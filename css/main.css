@@ -1,0 +1,529 @@
+.content {
+    width: 1140px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.welcome {
+    background-color: #87509c;
+    width: 100%;
+    height: 596px;
+    display: inline-block;
+}
+
+.navigation {
+    background: url("../img/logo.png") no-repeat;
+    margin-top: 57px;
+    margin-left: 42px;
+    display: inline-block;
+    width: 100%;
+    height: 37px;
+}
+.navigation a {
+    float: right;
+    display: inline-block;
+    line-height: 32px;
+    padding: 10px 17px;
+    color: white;
+    font-family: 'TitilliumWeb-Regular', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin: 0 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navigation a:hover {
+    background-color: #643a79;
+    border-radius: 6px;
+}
+.home-text {
+    font-family: TitilliumWeb-Bold;
+    color: white;
+    font-size: 42px;
+    width: 911px;
+    margin-top: 145px;
+    text-align: center;
+    display: inline-block;
+    line-height: 0.9em;
+}
+
+.home-text a {
+    font-family: TitilliumWeb-Bold, sans-serif;
+    font-size: 18px;
+    color: white;
+    text-transform: uppercase;
+    line-height: 70px;
+    padding: 28px 81px;
+    background-color: #eb7d4b;
+    border-radius: 6px;
+    margin-top: 62px;
+    text-decoration: none;
+}
+
+.services {
+    height: 746px;
+    width: 100%;
+    background-color: #17c2a4;
+    display: inline-block;
+}
+
+.services-title {
+    color: white;
+    text-transform: uppercase;
+    font-family: TitilliumWeb-Bold;
+    font-size: 40px;
+    margin-top: 119px;
+    letter-spacing: 5px;
+    height: 40px;
+}
+
+.serv-line {
+    background-image: url("../img/line-services.png");
+    background-position: top;
+    width: 100%;
+    height: 4px;
+    display: inline-block;
+    margin-top: 22px;
+    background-repeat: no-repeat;
+}
+
+.serv-text {
+    font-family: TitilliumWeb-Regular;
+    font-size: 18px;
+    color: white;
+    width: 100%;
+    display: inline-block;
+    line-height: 1.5em;
+}
+
+.serv-info {
+    width: 1120px;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+
+.serv-info div {
+    width: 260px;
+    display: inline-block;
+    margin-top: 47px;
+}
+
+.branding {
+    background: url("../img/flag.png")no-repeat top;
+    height: 596px;
+    display: inline-block;
+    width: 260px;
+    margin-top: 47px;
+}
+
+.desing {
+    background: url("../img/pencil.png") no-repeat top;
+    height: 596px;
+    display: inline-block;
+    width: 260px;
+    margin-top: 47px;
+}
+
+.development{
+    background: url("../img/gear.png") no-repeat top;
+    height: 596px;
+    display: inline-block;
+    width: 260px;
+    margin-top: 47px;
+}
+
+.rocket-science {
+    background-image: url("../img/rocket.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 596px;
+    display: inline-block;
+    width: 260px;
+    margin-top: 47px;
+}
+
+.serv-info-title {
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 180px;
+}
+
+.serv-info-text {
+    font-family: TitilliumWeb-Light;
+    font-size: 16px;
+}
+
+.team {
+    background-color: #e7f1f8;
+    width: 100%;
+    height: 914px;
+    display: inline-block;
+    color: #3c4761;
+}
+
+.teem-title {
+    font-family: TitilliumWeb-Bold;
+    font-size: 41px;
+    text-transform: uppercase;
+    height: 20px;
+    margin-top: 119px;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+.teem-text {
+    font-family: TitilliumWeb-Regular;
+    font-size: 16px;
+}
+
+.team-info {
+    display: inline-block;
+}
+
+.team-info div {
+    width: 260px;
+    margin-top: 58px;
+    display: inline-block;
+    text-align: center;
+}
+
+.tem-info-title {
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.team-info-blue {
+    color: #48c1e9;
+    font-family: TitilliumWeb-Regular;
+    font-size: 16px;
+}
+
+.team-info-text {
+    font-family: TitilliumWeb-Light;
+    font-size: 16px;
+}
+
+.team-info a {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.skills {
+    color: white;
+    height: 655px;
+    width: 100%;
+    color: #3c4761;
+}
+
+.skills-title {
+    font-family: TitilliumWeb-Bold;
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
+    height: 55px;
+    margin-top: 100px;
+}
+
+.skills-text {
+    font-family: TitilliumWeb-Regular;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.skills-info {
+    display: inline-block;
+}
+
+.skills-info div {
+    width: 260px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 85px;
+}
+
+.skill-web {
+    background-image: url("../img/90.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    display: inline-block;
+}
+
+.skills-html {
+    background-image: url("../img/75.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    display: inline-block;
+}
+
+.skills-graphic {
+    background-image: url("../img/70.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    display: inline-block;
+}
+
+.skills-ul {
+    background-image: url("../img/85.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    display: inline-block;
+}
+
+.interest {
+    font-size: 50px;
+    font-family: TitilliumWeb-Light;
+}
+
+.skills-info-text {
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-top: 70px;
+}
+
+.portfolio {
+    height: 1423px;
+    width: 100%;
+    background-color: #ffdd99;
+    color: #393939;
+}
+
+.port-title {
+    font-family: TitilliumWeb-Bold;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: 90px;
+    display: inline-block;
+    width: 100%;
+    height: 95px;
+}
+
+.port-text {
+    font-family: TitilliumWeb-Regular;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.portfolio a {
+    line-height: 38px;
+    background-color: #ebc985;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #393939;
+    padding: 12px 28px;
+    margin: 43px 5px;
+    display: inline-block;
+}
+
+.portfolio a:hover {
+    background-color: white;
+}
+
+.port-works div {
+    display: inline-block;
+    width: 541px;
+    margin: 45px 10px 0 10px;
+}
+
+.port-work-text {
+    font-size: 18px;
+    font-family: TitilliumWeb-Regular;
+    text-transform: uppercase;
+    height: 0;
+}
+
+.port-link a {
+    font-family: TitilliumWeb-Bold;
+    font-size: 18px;
+    line-height: 70px;
+    background-color: #17c2a4;
+    color: white;
+    border-radius: 8px;
+    padding: 0 59px;
+}
+
+.port-link a:hover {background-color: #17c2a4;}
+
+.test {
+    height: 892px;
+    width: 100%;
+    background-color: #d74680;
+    color: white;
+    display: inline-block;
+}
+
+.test-title {
+    font-family: TitilliumWeb-Bold;
+    font-size: 40px;
+    text-transform: uppercase;
+    height: 60px;
+}
+
+.test-text {
+    font-family: TitilliumWeb-Regular;
+    font-size: 18px;
+}
+
+.team-info {
+    height: 180px;
+    display: inline-block;
+}
+
+.test-info div {
+    width: 540px;
+    display: inline-block;
+}
+
+.test-info-text p {
+    float: right;
+    width: 393px;
+    text-align: left;
+    height: auto;
+}
+
+.test-info-text {
+    display: inline-block;
+
+}
+
+.Chanel {background: url("../img/round-small.png") no-repeat;
+    margin-top: 78px;
+}
+
+.ADRIANA {background: url("../img/round-small.png") no-repeat;
+}
+
+.ANNE {background: url("../img/round-small.png") no-repeat;
+    margin-top: 135px;
+
+}
+
+.EMMA {background: url("../img/round-small.png") no-repeat;
+}
+
+
+.test-info-text-italic {
+    font-family: TitilliumWeb-Italic;
+    font-size: 21px;
+    margin: 0;
+}
+
+.test-info-text-bold {
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 20px 0 0 0;
+
+}
+
+.test-info-text-color {
+    font-family: TitilliumWeb-Regular;
+    font-size: 18px;
+    color: #ffdd99;
+    margin: 0;
+
+}
+
+.get {
+    height: 819px;
+    width: 100%;
+    background-color: #3c5499;
+    color: white;
+    display: inline-block;
+}
+
+.get-title {
+    font-family: TitilliumWeb-Bold;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 114px 0 20px 0;
+    line-height: 40px;
+}
+
+.get-text {
+    font-family: TitilliumWeb-Regular;
+    font-size: 18px;
+    line-height: 18px;
+    margin: 25px 0 80px 0;
+}
+
+#name {
+    line-height: 56px;
+    width: 390px;
+    background-color: #273a71;
+    margin-right: 15px;
+    border-radius: 8px;
+    padding: 0 24px;
+    font-size: 18px;
+    font-family: TitilliumWeb-Regular;
+    border: none;
+}
+
+#mail {
+    height: 56px;
+    width: 390px;
+    background-color: #273a71;
+    margin-left: 15px;
+    border-radius: 8px;
+    padding: 0 24px;
+    font-size: 18px;
+    font-family: TitilliumWeb-Regular;
+    border: none;
+}
+
+#message {
+    background-color: #273a71;
+    height: 200px;
+    width: 861px;
+    margin-top: 27px;
+    border-radius: 8px;
+    padding: 22px 24px;
+    font-size: 18px;
+    font-family: TitilliumWeb-Regular;
+    border: none;
+}
+
+input[type="submit"] {
+    font-family: TitilliumWeb-Bold;
+    font-size: 18px;
+    background-color: #30bae7;
+    width: 293px;
+    height: 70px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-top: 60px;
+}
+
+.social {
+    height: 112px;
+    width: 100%;
+    background-color: #344b8e;
+}
+
+.social a {
+    color: white;
+    font-family: TitilliumWeb-Bold;
+    font-size: 24px;
+    margin: 0 29px;
+    display: inline-block;
+    text-decoration: none;
+    height: 112px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.social a:hover {
+    color: #30bae7;
+}
